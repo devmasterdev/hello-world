@@ -1,2 +1,3 @@
 # hello-world
-Simple hello world repository
+
+Hello, I'm Devin and this is a simple hello world repository.
